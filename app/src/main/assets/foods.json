@@ -1,0 +1,22 @@
+[
+ {"name":"Roti / Chapati","serving":"1 medium","kcal":100,"p":3.0,"c":18.0,"f":2.5,"aliases":["roti","chapati","phulka"]},
+ {"name":"Paratha","serving":"1 plain","kcal":260,"p":5.0,"c":36.0,"f":10.0,"aliases":["paratha"]},
+ {"name":"Cooked rice","serving":"1 cup","kcal":205,"p":4.2,"c":45.0,"f":0.4,"aliases":["rice","chawal"]},
+ {"name":"Dal","serving":"1 cup","kcal":180,"p":10.0,"c":28.0,"f":3.0,"aliases":["dal","daal","lentil"]},
+ {"name":"Paneer","serving":"100 g","kcal":265,"p":18.0,"c":3.6,"f":20.0,"aliases":["paneer"]},
+ {"name":"Egg","serving":"1 large","kcal":78,"p":6.3,"c":0.6,"f":5.3,"aliases":["egg","anda"]},
+ {"name":"Chicken breast","serving":"100 g cooked","kcal":165,"p":31.0,"c":0.0,"f":3.6,"aliases":["chicken breast","chicken"]},
+ {"name":"Idli","serving":"1 piece","kcal":58,"p":2.0,"c":12.0,"f":0.2,"aliases":["idli"]},
+ {"name":"Dosa","serving":"1 plain","kcal":168,"p":3.9,"c":29.0,"f":3.7,"aliases":["dosa"]},
+ {"name":"Samosa","serving":"1 piece","kcal":262,"p":3.5,"c":24.0,"f":17.0,"aliases":["samosa"]},
+ {"name":"Banana","serving":"1 medium","kcal":105,"p":1.3,"c":27.0,"f":0.4,"aliases":["banana","kela"]},
+ {"name":"Apple","serving":"1 medium","kcal":95,"p":0.5,"c":25.0,"f":0.3,"aliases":["apple","seb"]},
+ {"name":"Milk","serving":"1 cup","kcal":150,"p":8.0,"c":12.0,"f":8.0,"aliases":["milk","doodh"]},
+ {"name":"Curd / Yogurt","serving":"1 cup","kcal":150,"p":8.5,"c":11.0,"f":8.0,"aliases":["curd","yogurt","dahi"]},
+ {"name":"Bread slice","serving":"1 slice","kcal":79,"p":2.7,"c":15.0,"f":1.0,"aliases":["bread","toast"]},
+ {"name":"Oats","serving":"1 cup cooked","kcal":154,"p":6.0,"c":27.0,"f":2.6,"aliases":["oats","oatmeal"]},
+ {"name":"Pizza slice","serving":"1 slice","kcal":285,"p":12.0,"c":36.0,"f":10.0,"aliases":["pizza"]},
+ {"name":"Burger","serving":"1 regular","kcal":354,"p":16.0,"c":30.0,"f":17.0,"aliases":["burger"]},
+ {"name":"Biryani","serving":"1 plate","kcal":490,"p":20.0,"c":60.0,"f":18.0,"aliases":["biryani"]},
+ {"name":"Chai with milk & sugar","serving":"1 cup","kcal":90,"p":2.5,"c":14.0,"f":2.5,"aliases":["chai","tea"]}
+]
